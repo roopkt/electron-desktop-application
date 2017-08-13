@@ -1,0 +1,26 @@
+{
+    "name": "electron app",
+    "version": "1.0.0",
+    "description": "learning electron",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/roopkt/electron-desktop-application.git"
+    },
+    "keywords": [
+        "electron",
+        "desktop",
+        "app"
+    ],
+    "author": "Rupesh Kumar Tiwari",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/roopkt/electron-desktop-application/issues"
+    },
+    "homepage": "https://github.com/roopkt/electron-desktop-application#readme"
+}
